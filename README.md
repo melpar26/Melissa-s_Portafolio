@@ -1,5 +1,5 @@
 # Melissa's Portafolio
-Hi! This is my portafolio repository for all my data analytics projects.
+Hi! Here you will find all my data analytics projects
 
 ## Project 1: Exploring Mexico City Airbnb data
 - Data was taken from Inside Airbnb and includes listings from September 2021 to September 2022
